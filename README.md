@@ -1,9 +1,14 @@
 # Pathfinding Visualizer
 
 Pathfinding alogorithm visualizer with React.js.
-#
 
-#
+## Instructions
+
+- Install npm and React
+- Clone this repo ``git clone https://github.com/25011908vardhan/AIML-Project.git``
+- Install dependencies ``npm install``
+- Run the React project ``npm start``
+
 
 ## Algorithm Included
 
@@ -13,6 +18,5 @@ Pathfinding alogorithm visualizer with React.js.
 - DFS
 - Maze Generation:Recursive Division
 
-#
 
-### Hope you can enjoy the project as I do !
+### Enjoy!
