@@ -1,0 +1,87 @@
+.grid {
+  margin-top: 35px;
+  line-height: 0;
+}
+
+#myModal {
+  display: block;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(77, 77, 77, 0.4);
+  cursor: default;
+}
+
+#modal-content {
+  margin: 0% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+  background-image: radial-gradient(
+    circle,
+    #263238 20%,
+    #607D8B 100%
+  );
+  color: rgb(255, 246, 246);
+  background-size: cover;
+}
+
+span.titleClose {
+  background-color: transparent;
+  border: none;
+  float: right;
+  font-size: 18px;
+  color: azure;
+  cursor: pointer;
+}
+span.titleClose:hover {
+  color: lightskyblue;
+}
+
+.intro {
+  text-align: left;
+  font-size: 20px;
+  line-height: 1;
+  margin-top: -15x;
+}
+
+button.btn-default {
+  background-image: radial-gradient(
+    circle,
+    #CCFF90 0%,
+    #CCFF90 100%
+  );
+  float: right;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+}
+button.btn-default:hover {
+  color: rgb(24, 166, 2);
+}
+
+#navbar {
+  background-color: #313436;
+  margin: 0;
+  padding: 5px;
+}
+#navbar a{
+  color: white;
+}
+#navbar a:hover {
+  color: #b4ff58;
+}
+
+#navbar-brand {
+  color: rgb(251, 171, 171) !important;
+  font-size: 1.3rem;
+  text-shadow: 2px 2px 5px;
+}
+
+#navbarDropdown {
+  color: black;
+}
