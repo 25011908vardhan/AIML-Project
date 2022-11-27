@@ -1,4 +1,4 @@
-# Pathfinding Visualizer
+# Search Algorithms Visualizer
 
 Pathfinding alogorithm visualizer with React.js.
 
